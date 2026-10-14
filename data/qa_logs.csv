@@ -1,0 +1,4 @@
+log_id,linked_po,raw_text
+QA-001,PO-9901,Corimpex line 3 operator notes: Weld completed. Thermal distortion measured at 1.8mm. Induction coils held steady at 150C. NDT passed.
+QA-002,PO-9902,FICEP TIPO drill complete. Flange straightened. Distortion variance detected: measured 2.1mm (exceeds tolerance). Preheating at 140C.
+QA-003,PO-9903,MPI scan clear. No micro-cracking. Heating zones maintained at 160C.
